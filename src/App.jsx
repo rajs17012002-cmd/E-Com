@@ -7,9 +7,10 @@ import Contact from "./pages/Contact";
 import Settings from "./pages/Settings";
 import Signup from "./component/Signup";
 import Login from "./component/Login";
-import Cart from "./component/cart";
+
 import Checkout from "./component/Checkout";
 import Admindashboard from "./pages/Admindashboard";
+import Cart from "./component/Cart";
 
 
 export const Globalstate = createContext();

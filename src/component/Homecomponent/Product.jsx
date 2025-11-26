@@ -1,5 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
-import axios from "axios"
+import axios from "axios";
+
 import { Globalstate } from '../../App';
 
 const Product = () => {
